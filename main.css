@@ -1,0 +1,16 @@
+form{
+    background-color: rgb(80, 0, 69);
+    color: wheat;
+    font-size: 2em;
+    max-width: 1694.5px;
+    justify-items: center;
+    margin-top: 20%;
+    border: outset;
+    border-color: rgb(255, 0, 170);
+    
+}
+body{
+    background-image: url('https://cdn.pixabay.com/animation/2023/06/06/06/51/06-51-32-766_512.gif');
+    background-repeat: repeat-y;
+    background-size: cover;
+}

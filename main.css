@@ -9,8 +9,19 @@ form{
     border-color: rgb(255, 0, 170);
     
 }
+
+
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    box-sizing: border-box;
+}
+
 body{
-    background-image: url('https://cdn.pixabay.com/animation/2023/06/06/06/51/06-51-32-766_512.gif');
-    background-repeat: repeat-y;
+    background-image: url('https://i.pinimg.com/originals/93/e1/f8/93e1f8d69fa334ede4226c192af57fcf.jpg');
+    background-repeat: no-repeat;
     background-size: cover;
+    height: 100vh;
+    margin: 0;
 }
